@@ -20,3 +20,9 @@ const { language } = useLanguage()
     </NaiveProvider>
   </NConfigProvider>
 </template>
+<template>
+  <div>
+    <h1>My Vue App</h1>
+    <img src="./assets/mt4_ea999.jpg" alt="My Image">
+  </div>
+</template>
